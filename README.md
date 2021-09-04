@@ -14,3 +14,11 @@ pip install opencv-python
 ```
 pip install scikit-learn
 ```
+
+## Usage
+Linux
+```
+git clone https://github.com/cangzihan/Background-Remover.git
+cd Background-Remover/
+python3 main.py
+```
